@@ -1,5 +1,5 @@
 # Customer-Segmentation
 
-K-Means Clusetering
-hierarchical clustering
+- K-Means Clusetering
+- hierarchical clustering
 
